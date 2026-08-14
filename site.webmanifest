@@ -1,0 +1,21 @@
+{
+    "name": "Eaglercraft",
+    "short_name": "Eaglercraft",
+    "icons": [
+        {
+            "src": "/images/favicon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/logo.jpg",
+            "sizes": "512x512",
+            "type": "image/jpeg"
+        }
+    ],
+    "theme_color": "#00a8ff",
+    "background_color": "#1e272e",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "any"
+}
